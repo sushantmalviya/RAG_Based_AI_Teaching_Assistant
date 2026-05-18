@@ -1,0 +1,33 @@
+# Python
+__pycache__/
+*.pyc
+venv/
+.venv/
+env/
+
+# Environment variables
+.env
+
+# Generated/input media files
+video/
+audio/
+*.mp4
+*.mkv
+*.avi
+*.mov
+*.mp3
+*.wav
+
+# Generated transcripts and embeddings
+transcripts/
+embeddings/
+*.json
+*.pkl
+*.npy
+
+# Logs
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
