@@ -9,4 +9,4 @@ for file in files:
     vid_name = file.split(".")[1].split("-in")[0]
     print(vid_name)
 
-    subprocess.run(["ffmpeg", "-i", f"videos/{file}", f"audios/{video_no}-{vid_name}.mp3"]) 
+    subprocess.run(["ffmpeg", "-i", f"videos/{file}", f"audios/{video_no}-{vid_name}.mp3"])
