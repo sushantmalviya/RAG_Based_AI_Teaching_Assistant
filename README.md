@@ -8,9 +8,9 @@ The system processes lecture videos, converts them into audio, transcribes the a
 
 ## Current Progress
 
-- Added video preprocessing script
+- Added video preprocessing script (`process_videos.py`)
 - Supports converting video content into audio
-- Added setup files for GitHub
+- Added audio transcription and JSON export script (`create_chunks.py`)
 
 ## Planned Pipeline
 
