@@ -2,6 +2,7 @@ import requests
 import os
 import json
 import pandas as pd
+import joblib
 
 def create_embedding(text_list):        
     r = requests.post("http://localhost:11434/api/embed",
@@ -35,4 +36,4 @@ for json_file in jsons:
 df = pd.DataFrame.from_records(my_dicts)
 print(df)
 
-
+joblib.dump(df, "embeddings.joblib")
