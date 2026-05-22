@@ -1,0 +1,7 @@
+Hi there! I see you're learning about sorting algorithms. You asked about merge sort time complexity.
+
+In video 4, we discussed merge sort in detail. At around 1 minute and 40 seconds (1901.28 seconds), we touched upon its time complexity. But if you want a more thorough explanation, that's where video 4 comes into play. Specifically, at 1 minute and 50 seconds (1292.98 seconds) and again later on.
+
+The other videos in the series also cover merge sort, but it's mainly focused in video 4. Video 5 mentions quick sort for comparison, which is a different algorithm altogether.
+
+If you want to know more about merge sort time complexity or review what was covered in video 4, I'd be happy to help!
