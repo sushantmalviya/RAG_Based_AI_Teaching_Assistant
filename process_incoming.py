@@ -30,6 +30,7 @@ def inference(prompt):
 df = joblib.load("embeddings.joblib")
 
 incoming_query = input("Ask your question:")
+print("Thinking...")
 question_embedding = create_embedding(incoming_query)[0]
 
 # print(question_embedding)

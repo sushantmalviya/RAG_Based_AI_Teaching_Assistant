@@ -1,7 +1,9 @@
-Hi there! I see you're learning about sorting algorithms. You asked about merge sort time complexity.
+You're interested in learning about the time complexity of merge sort.
 
-In video 4, we discussed merge sort in detail. At around 1 minute and 40 seconds (1901.28 seconds), we touched upon its time complexity. But if you want a more thorough explanation, that's where video 4 comes into play. Specifically, at 1 minute and 50 seconds (1292.98 seconds) and again later on.
+The concept of time complexity is introduced in the 4th video of the sorting algorithms course, where we discuss merge sort. To understand this topic, I recommend watching videos 1-3 as well, but specifically, video 4 covers the basics of merge sort and its implementation in detail.
 
-The other videos in the series also cover merge sort, but it's mainly focused in video 4. Video 5 mentions quick sort for comparison, which is a different algorithm altogether.
+In video 4, starting from timestamp 0:00 to 17:33 (approx.), you can find an explanation on how merge sort works. The instructor explains that merge sort is a divide-and-conquer algorithm, which means it breaks down the problem into smaller sub-problems and solves them recursively. They also discuss the space complexity of merge sort.
 
-If you want to know more about merge sort time complexity or review what was covered in video 4, I'd be happy to help!
+Later in the video, starting from timestamp 18:24 to 23:44 (approx.), the instructor delves deeper into the time complexity of merge sort. They explain that the time complexity is O(n log n) because each comparison and swap operation takes constant time, but there are log n levels of recursion in the tree-like structure created by the algorithm.
+
+If you're looking for more information on time complexity or would like a more detailed explanation, I can try to help with that. However, please note that this course is designed to cover sorting algorithms from basics to advanced topics, so it's essential to watch all the videos to get a comprehensive understanding of each topic.
