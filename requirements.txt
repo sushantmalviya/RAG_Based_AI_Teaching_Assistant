@@ -1,2 +1,7 @@
 faster-whisper
 ffmpeg-python
+requests
+pandas
+joblib
+scikit-learn
+numpy
